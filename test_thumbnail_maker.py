@@ -1,3 +1,4 @@
+# test_thumbnail_maker.py
 from thumbnail_maker import ThumbnailMakerService
 
 IMG_URLS = \
